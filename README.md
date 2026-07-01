@@ -2,7 +2,7 @@ Git & GitHub
 ==
 Learning Git & GitHub
 --
-*Learned lists:
+*Learned lists*:
 - Terminal Command (e.g. touch, rm, cd, cd ..)
 - Git Repository (Local & Remote)
 - Git Clone
@@ -13,3 +13,6 @@ Learning Git & GitHub
 - Git Pull
 - Git Revert
 - Git Stash
+- Creating README.md
+
+*Learning Sources: freecodecamp via Youtube & Dicoding Indonesia Web*
